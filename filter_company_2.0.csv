@@ -1,0 +1,14 @@
+Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume,Market Cap,Dividend,ROA,ROE,ROI,Curr R,Quick R,LTDebt/Eq,Debt/Eq,Gross M,Oper M,Profit M,Earnings,Price,Change,Volume
+ANET,"Arista Networks, Inc.",Technology,Computer Hardware,USA,35.69B,36.14,117.30,0.02%,1252274,35.69B,-,17.90%,25.90%,21.00%,3.70,3.00,0.00,0.00,62.80%,32.60%,29.60%,Aug 01/a,117.30,0.02%,1252274
+CDNS,"Cadence Design Systems, Inc.",Technology,Software - Application,USA,46.57B,60.13,168.17,-1.10%,1416261,46.57B,-,17.90%,28.80%,22.90%,1.60,1.50,0.13,0.00,89.70%,30.20%,23.60%,Jul 25/a,168.17,-1.10%,1416261
+FTNT,"Fortinet, Inc.",Technology,Software - Infrastructure,USA,38.28B,59.63,48.60,0.10%,6405123,38.28B,-,11.80%,156.30%,35.90%,1.10,1.00,-,-,75.30%,19.10%,17.70%,Aug 03/a,48.60,0.10%,6405123
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,USA,1436.44B,20.43,107.85,-1.72%,24160712,1436.44B,-,20.30%,28.60%,24.00%,2.80,2.80,0.06,0.06,56.70%,29.60%,25.90%,Jul 26/a,107.85,-1.72%,24160712
+INCY,Incyte Corporation,Healthcare,Biotechnology,USA,15.87B,16.52,70.21,-1.60%,1490751,15.87B,-,19.40%,25.40%,25.30%,3.90,3.90,0.01,0.01,95.30%,21.60%,28.50%,Aug 02/b,70.21,-1.60%,1490751
+MA,Mastercard Incorporated,Financial,Credit Services,USA,314.32B,32.68,322.56,-0.83%,1936812,314.32B,0.61%,26.50%,142.50%,39.90%,1.30,1.30,2.23,2.35,-,55.20%,46.50%,Jul 28/b,322.56,-0.83%,1936812
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,USA,444.41B,13.29,160.32,-3.05%,22634192,444.41B,-,20.10%,26.50%,31.00%,2.50,2.50,0.00,0.00,80.50%,33.40%,28.20%,Jul 27/a,160.32,-3.05%,22634192
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,USA,1942.04B,26.55,256.06,-1.67%,22855380,1942.04B,0.97%,21.00%,45.40%,31.30%,1.80,1.70,0.37,0.39,68.40%,42.00%,36.70%,Jul 26/a,256.06,-1.67%,22855380
+NVDA,NVIDIA Corporation,Technology,Semiconductors,USA,347.03B,44.74,136.47,-2.08%,74315744,347.03B,0.12%,17.80%,30.80%,26.20%,3.60,3.10,0.41,0.46,60.40%,26.90%,26.00%,Aug 24/a,136.47,-2.08%,74315744
+TJX,"The TJX Companies, Inc.",Consumer Cyclical,Apparel Retail,USA,74.12B,22.66,63.52,-0.50%,4055629,74.12B,1.86%,11.90%,57.30%,36.30%,1.20,0.50,0.53,0.62,28.00%,9.30%,6.80%,Aug 17/b,63.52,-0.50%,4055629
+TPR,"Tapestry, Inc.",Consumer Cyclical,Luxury Goods,USA,8.42B,10.95,34.53,-1.09%,4273752,8.42B,3.48%,11.20%,31.40%,23.40%,1.80,1.10,0.73,0.74,69.60%,16.80%,12.80%,Aug 18/b,34.53,-1.09%,4273752
+V,Visa Inc.,Financial,Credit Services,USA,414.03B,30.35,197.76,-1.18%,4508486,414.03B,0.76%,17.20%,42.80%,21.70%,1.40,1.40,0.63,0.73,80.70%,64.20%,50.80%,Jul 26/a,197.76,-1.18%,4508486
+ZTS,Zoetis Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,USA,74.63B,35.63,156.98,-1.52%,1529617,74.63B,0.83%,15.10%,45.30%,18.30%,2.20,1.50,1.14,1.44,70.40%,32.00%,26.10%,Aug 04/b,156.98,-1.52%,1529617
